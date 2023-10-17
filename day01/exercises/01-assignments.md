@@ -1,6 +1,6 @@
 ### Exercise 1:
 
-- Implement C or Fortran version for the code below
+- Implement C or Fortran version for the code 
 
 ```python
 do i =1 , N * i_stride , i_stride
